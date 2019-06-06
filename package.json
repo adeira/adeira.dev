@@ -1,0 +1,16 @@
+{
+  "name": "@kiwicom/docs",
+  "private": true,
+  "license": "UNLICENSED",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "docusaurus-start",
+    "build": "docusaurus-build",
+    "publish-gh-pages": "docusaurus-publish",
+    "write-translations": "docusaurus-write-translations"
+  },
+  "dependencies": {
+    "docusaurus": "^1.11.0",
+    "react": "^16.8.6"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "universe": {
+    "Monorepo": [
+      "monorepo/installation",
+      "monorepo/testing",
+      "monorepo/upgrading-dependencies",
+      "monorepo/directory-structure",
+      "monorepo/acceptance",
+      "monorepo/example-projects",
+      "monorepo/wiki-search-refresh"
+    ],
+    "Open source": ["oss/general", "oss/npm-packages", "oss/npm-releasing"],
+    "Developer guides": [
+      "guides/commit-messages",
+      "guides/money",
+      "guides/eslint-config-migration"
+    ]
+  },
+  "apps": {
+    "GraphQL": [
+      "graphql/general-information",
+      "graphql/monitoring",
+      "graphql/directory-structure",
+      "graphql/schema-design",
+      "graphql/js-developer-guides",
+      "graphql/infrastructure",
+      "graphql/testing",
+      "graphql/debugging",
+      "graphql/vault",
+      "graphql/faq",
+      "graphql/troubleshooting"
+    ]
+  }
+}
